@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Cfakepath17 September.xlsx</name>
+   <tag></tag>
+   <elementGuidId>5cdbd232-1651-4a52-a21e-52c70a4f94d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='uploadedFilePath']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uploadedFilePath</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fe9f434a-82b2-4ec4-ad85-fa2a8fd6df1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uploadedFilePath</value>
+      <webElementGuid>2775f362-819e-4ae8-a815-0b52f781b61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C:\fakepath\17 September.xlsx</value>
+      <webElementGuid>0a349fb6-619f-4861-953e-f42ad5e81bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uploadedFilePath&quot;)</value>
+      <webElementGuid>f9b6a526-2ee9-4607-ba92-377dd9755eed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='uploadedFilePath']</value>
+      <webElementGuid>b09872a1-d15d-4dd2-9906-995016940ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/p</value>
+      <webElementGuid>f2289e64-5b6f-4c26-9789-01c73c099a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a file'])[1]/following::p[1]</value>
+      <webElementGuid>afe6dfad-b992-4f54-a7cc-b84bf9739ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::p[1]</value>
+      <webElementGuid>db9be732-d5c0-4e7d-a1d6-ec04e3eb8fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[1]</value>
+      <webElementGuid>d1c974be-0ab6-4108-85a6-5e1153b0ea66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'uploadedFilePath', '&quot;', ')')])[1]/preceding::p[1]</value>
+      <webElementGuid>e1f04a2f-adc2-49d3-9e53-7f1c5127fdc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='C:\fakepath\17 September.xlsx']/parent::*</value>
+      <webElementGuid>e8f9b3ef-42b7-418c-88ec-1e48d287b022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>81690170-1b42-4685-a937-5308f19bf359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'uploadedFilePath' and (text() = 'C:\fakepath\17 September.xlsx' or . = 'C:\fakepath\17 September.xlsx')]</value>
+      <webElementGuid>e7f5109f-fc2c-4af2-ae03-93b0ae750cf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

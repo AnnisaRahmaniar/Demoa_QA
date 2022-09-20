@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Text Box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6353969d-1eaa-469d-a001-13548f87c3ea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f23f1682-4675-42c1-80f7-43fb6ee1bfa1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6dc77618-dbd9-4c05-a139-2314309e118b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51b4d2e9-6fd0-44a2-810a-c4b62e78e039</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72315c72-faf2-4b5e-9cf7-ed2c8dce8229</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Annisa Rahmaniar Dwi Pratiwi'</defaultValue>
+      <description></description>
+      <id>f23f1682-4675-42c1-80f7-43fb6ee1bfa1</id>
+      <masked>false</masked>
+      <name>inputfullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'annisa@gmail.com'</defaultValue>
+      <description></description>
+      <id>6dc77618-dbd9-4c05-a139-2314309e118b</id>
+      <masked>false</masked>
+      <name>inputemail</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yogyakarta'</defaultValue>
+      <description></description>
+      <id>51b4d2e9-6fd0-44a2-810a-c4b62e78e039</id>
+      <masked>false</masked>
+      <name>inputcurrent</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yogyakarta'</defaultValue>
+      <description></description>
+      <id>72315c72-faf2-4b5e-9cf7-ed2c8dce8229</id>
+      <masked>false</masked>
+      <name>inputpermanent</name>
+   </variable>
+</TestCaseEntity>

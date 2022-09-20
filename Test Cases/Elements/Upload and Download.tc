@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload and Download</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b54c62de-ab94-4366-9af2-3260c69d9520</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba708284-f8fd-40fc-a040-23aeb2da5db6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\17 September.xlsx'</defaultValue>
+      <description></description>
+      <id>ba708284-f8fd-40fc-a040-23aeb2da5db6</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
